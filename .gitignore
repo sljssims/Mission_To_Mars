@@ -1,2 +1,4 @@
 # Adding Files to Hide
 Practice.ipynb
+# Ignore ipynb checkpoints
+.ipynb_checkpoints/
