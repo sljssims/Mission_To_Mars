@@ -103,6 +103,7 @@ def mars_facts():
 
 
 ###### Insert code from Hemisphere scraping code (mission to mars challenge code)
+
 def mars_hemishperes(browser):
     # Visit the mars nasa news site
     url = 'https://redplanetscience.com'
